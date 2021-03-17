@@ -1,0 +1,123 @@
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Account.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Admin.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Manager.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Storehouse.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.LoginQuest.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.FreshMilk.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.MenuManagement.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.fDangNhap.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Menu.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.MilkTea.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Properties.Resources.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.GenerateResource.cache
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.exe
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.pdb
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe.config
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.pdb
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.dll
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.xml
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.CopyComplete
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.OrderCard.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.BillTable.resources
+E:\UNIVERSITY STUFFS\C#\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csprojAssemblyReference.cache
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe.config
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.pdb
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.dll
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.dll
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.xml
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.xml
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csprojAssemblyReference.cache
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Account.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Admin.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.BillTable.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Manager.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Storehouse.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.FreshMilk.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.MenuManagement.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.fDangNhap.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Menu.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Properties.Resources.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.OrderCard.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.GenerateResource.cache
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.CopyComplete
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.exe
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.pdb
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Form1.resources
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\RdlCompile.cache
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\RdlCompile.compiled
+E:\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.ManageMT.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe.config
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.pdb
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.dll
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.xml
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Account.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Admin.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.ManageMT.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.BillTable.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Form1.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Manager.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Storehouse.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.FreshMilk.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.MenuManagement.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.fDangNhap.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Menu.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Properties.Resources.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.OrderCard.resources
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.GenerateResource.cache
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\RdlCompile.cache
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\RdlCompile.compiled
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.CopyComplete
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.exe
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.pdb
+E:\UNIVERSITY STUFFS\C#\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csprojAssemblyReference.cache
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe.config
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.exe
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\MilkTea_TâyTây.pdb
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.dll
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.xml
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Account.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Admin.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.ManageMT.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.BillTable.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Form1.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Manager.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Storehouse.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.FreshMilk.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.MenuManagement.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.fDangNhap.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Menu.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.Properties.Resources.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.OrderCard.resources
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.GenerateResource.cache
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\RdlCompile.cache
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\RdlCompile.compiled
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csproj.CopyComplete
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.exe
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTea_TâyTây.pdb
+C:\Users\titeo\OneDrive\Máy tính\new milktea\MILKTEA\MilkTeaShop\MilkTea_TâyTây\MilkTea_TâyTây\obj\Debug\MilkTeaShop.csprojAssemblyReference.cache
